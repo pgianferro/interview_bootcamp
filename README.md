@@ -32,4 +32,7 @@ Aquí tienes un plan de estudio completo para que puedas conseguir tu primer emp
 Acá tenes un repositorio con +10 proyectos para practicar. Incluye todos los challenges y ejercicios del stream, se va actualizando y podés aplicar a conseguir trabajo haciendo algunos de ellos 👇
 ➡️ https://github.com/goncy/interview-challenges
  
- 
+ 5) Brais Moure @MoureDev
+La gran pregunta...🤔 ¿Qué aplicaciones debo tener en mi portfolio como programador/a? No te voy a decir ni una ni dos... Vamos a por 12!
+➡️ Aquí te lo cuento todo. Con repo en GitHub, revision y código de ejemplo 💪
+https://youtu.be/TSMFijaJwpE 
